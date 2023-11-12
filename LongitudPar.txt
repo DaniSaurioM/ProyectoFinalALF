@@ -1,0 +1,9 @@
+1
+{0,1}
+q
+s
+q0p0Dk
+q1p1Dk
+qbsbDk
+p0q0Dk
+p1q1Dk
